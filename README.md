@@ -4,7 +4,7 @@
 1. Clone the repo using the following command:
     
     ```bash
-        git clone <to be filled>
+        git clone https://github.com/ahmedelsayed968/Bento-Serving.git
     ```
 2. install dependecy
     ```bash
